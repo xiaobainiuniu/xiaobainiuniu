@@ -83,6 +83,7 @@ Artificial Intelligence
 
 | Project | What it does | Tech |
 | --- | --- | --- |
+| [**DeskPing**](https://github.com/xiaobainiuniu/DeskPing) | 轻量级 Windows 托盘计时提醒器，支持正计时、倒计时、目标时刻、每日重复与多重到点提醒 | C# · .NET 10 · WinForms |
 | [**PasteImageAsFile**](https://github.com/xiaobainiuniu/PasteImageAsFile) | 在 Windows 中复制图片后，直接在资源管理器按 `Ctrl+V` 保存为真正的 PNG 文件 | C++17 · Win32 · CMake |
 | [**Auto Clicker**](https://github.com/xiaobainiuniu/auto-clicker) | 轻量级 Windows 连点工具，支持多显示器、全局热键和后台点击 | Rust · egui/eframe · WinAPI |
 
